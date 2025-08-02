@@ -4,6 +4,7 @@ This Power BI project provides a comprehensive analysis of Blinkit’s grocery s
 
 ![image alt](https://github.com/Madmax107/Blinkit-Grocery-Dashboard-PowerBI/blob/b09862bf85d84d7e7bf52dcf756b959f2c8efb89/Dashboard%20images/ss1.png)
 
+![image alt](https://github.com/Madmax107/Blinkit-Grocery-Dashboard-PowerBI/blob/9f4c77719b78ba237bfbd3744701e017e5181f62/Dashboard%20images/ss2.png)
 
 ## 📊 Dashboard Insights Breakdown
 Although the dashboard is built on a **single page**, it uses **interactive slicers** to dynamically update the visuals and analyze the data from multiple perspectives. Here's a breakdown of the key insights and how they're explored using matrix filters:
