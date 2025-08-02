@@ -1,3 +1,5 @@
+![image alt](https://github.com/Madmax107/Blinkit-Grocery-Dashboard-PowerBI/blob/b09862bf85d84d7e7bf52dcf756b959f2c8efb89/Dashboard%20images/ss1.png)
+
 # Blinkit Grocery Dashboard (Power BI)
 
 This Power BI project provides a comprehensive analysis of Blinkit’s grocery store operations, sales distribution, outlet trends, item types, and customer engagement metrics. It is built using a rich dataset with filters, visual breakdowns, and KPIs that empower better business decisions.
